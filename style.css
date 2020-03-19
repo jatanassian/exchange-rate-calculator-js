@@ -82,3 +82,9 @@ p {
 select:focus, input:focus, button:focus {
   outline: none
 }
+
+@media(max-width: 600px) {
+  .currency input {
+    width: 200px;
+  }
+}
