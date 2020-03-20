@@ -1,5 +1,5 @@
-# Exchange rate
-This project is an exchange rate calculator made using vanilla JavaScript.
+# Exchange Rate Calculator
+This project is made using vanilla JavaScript.
 It uses the fetch API to perform requests to the exchangerate-api and update the data.
 
 ## Screenshot
